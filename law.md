@@ -3,18 +3,22 @@ layout: default
 permalink: /law/
 ---
 
-Imagine the Australian government sent an agent to watch over your shoulder
-as you used the computer 
-
-The Australian government are pushing through a bill, blandly called 
+The Australian government, with the help of the opposition,
+are pushing through a bill, blandly called
 the _Telecommunications (Interception and Access) Amendment
 (Data Retention) Bill 2015_. This is a direct attack on your right to
-privacy, and may be used by a government 
+privacy, and means that every communication you participate in is
+kept on record for two years. During that time, employees of
+certain agencies can access the data without judicial
+oversight.
+
+Doesn't that sound <span class="glyphicon glyphicon-heart"></span>lovely<span class="glyphicon glyphicon-heart"></span>?
 
 - [What is metadata?](#what)
-- [Why does the Australian Government want it?](#why)
 - [What are they collecting?](#collecting)
 - [What can they do with it?](#do)
+- [Know your rights, know your Ombudsman](#ombudsman)
+- [Why should you care?](#care)
 
 
 ## <a name="what"></a>What is metadata?
@@ -49,7 +53,6 @@ The metadata of this table would say that there are four
 people that the table describes. This is a description of the
 description; the data of the data. Sounds innocent enough, right?
 
-### Metadata about communication
 In communication terms, metadata
 is information about the piece of communication being sent, without
 including the contents of the communication itself.
@@ -60,8 +63,8 @@ Image that, every time you sent a letter, the following was recorded:
 - the return address,
 - the stamp used,
 - the weight of the letter,
-- the colour of the ink used to mark the envelope, 
-- the type of envelope. 
+- the colour of the ink used to mark the envelope,
+- the type of envelope.
 
 This captures some of what is covered by capture of communications metadata, except that
 some other things might be catured, like
@@ -71,17 +74,20 @@ some other things might be catured, like
 - what application you were using when you sent the data,
 - the operating system of the device that you are using.
 
-### Metadata about website visits
+<p class="lead" align="center">However, there is <strong>no definition of metadata in this law</strong>.</p>
 
+Metadata could, then, concievably mean __anything__:[^nodef]
 
-##Why does the Australian government want it? 
+>When you browse a webpage the distinction between content and metadata disappears because it's all
+machine-produced (and machine-understandable) information about web resources. It's all metadata. Alternatively,
+it's all content!
 
-## <a name="collecting"></a>What exactly are they collecting?
+## <a name="collecting"></a>So... what exactly does the law say they are collecting?
 The following are specifically stated in the legislation as being required by law to
 be collected:[^collection]
 
-1. The subscriber of, and accounts, services, telecommunications devices and 
-other relevant services relating to, the relevant service. 
+1. The subscriber of, and accounts, services, telecommunications devices and
+other relevant services relating to, the relevant service.
 1. The source of a communication.
 1. The destination of a communication.
 1. The date, time and duration of a communication, or of its connection to a relevant service.
@@ -90,15 +96,16 @@ other relevant services relating to, the relevant service.
 
 ##What can they do with it? <a name="do"></a>
 
-The bill 
+The bill
 
 - __forces__ Internet Service Providers (ISPs, like Telstra, Optus, iiNet, TPG) to
 store your metadata for __two years__, and
 
 - allows law enforcement agencies to access the data __without a warrant__ and
-without being required to notify __anybody__. The
+without being required to notify __anybody__, only keep records that they
+have accessed the data. The
 organisations that are specified in the legislation are:[^agencies]
-   
+
     - (a) the Australian Federal Police;
     - (b) a Police Force of a State;
     - (c) the Australian Commission for Law Enforcement Integrity;
@@ -114,8 +121,29 @@ organisations that are specified in the legislation are:[^agencies]
     - (k) the Corruption and Crime Commission;
     - (l) the Independent Commissioner Against Corruption.
 
-## Why should you care?
+If this list seems long, it is.
 
-#### Notes
+__The metadata of every communication you transmit will be easily accessable by <strong>14</strong>
+different agencies.__
+
+## The Ombudsman<a name="ombudsman"></a>
+
+The bill also mandates that there __must__ be a Commonwealth Ombudsman[^ombudsman], who
+is the only real mechanism of oversight in the law.
+
+The Ombudsman has the power to:
+
+- enter any of the premises of the above agencies,
+- gain "full and free access at all reasonable times to all records of the agency that are relevant to the inspection",
+- request that "a member of staff of the agency to give the Ombudsman any information that the Ombudsman considers necessary, being information:
+(i) that is in the member’s possession, or to which the member has access; and (ii) that is relevant to the inspection", regardless
+of other laws.
+
+__However, this method of oversight only works if the Ombudsman has independance and integrity.__ All we can do is cross
+our fingers and hope.
+
+### Notes
+[^nodef]: [http://www.abc.net.au/news/2015-03-17/metadata-data-retention-what-is-it/6324962](http://www.abc.net.au/news/2015-03-17/metadata-data-retention-what-is-it/6324962)
 [^collection]: Pages 6--8, beginning line 203.
-[^agencies]: Pages 56--289, lines 1719--32.
+[^agencies]: Pages 56--57, lines 1719--1732.
+[^ombudsman]: Chapter 4A, pages 77--83.
