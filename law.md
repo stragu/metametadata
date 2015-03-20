@@ -5,8 +5,9 @@ permalink: /law/
 
 The Australian government, with the help of the opposition,
 are pushing through a bill, blandly called
-the _Telecommunications (Interception and Access) Amendment
-(Data Retention) Bill 2015_. This is a direct attack on your right to
+the [_Telecommunications (Interception and Access) Amendment
+(Data Retention) Bill 2015_](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22legislation/bills/r5375_third-reps/0000%22). 
+This is a direct attack on your right to
 privacy, and means that every communication you participate in is
 kept on record for two years. During that time, employees of
 certain agencies can access the data without judicial
