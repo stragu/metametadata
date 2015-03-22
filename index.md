@@ -14,6 +14,8 @@ layout: default
 <h4 class="text-center">
 <span class="glyphicon glyphicon-book"></span> <a href="/law/">more information about the law</a></h4>
 <h4 class="text-center">
+<span class="glyphicon glyphicon-user"></span> <a href="/care/">more information on why you should care</a></h4>
+<h4 class="text-center">
 <span class="glyphicon glyphicon-alert"></span> <a href="/dosomething/">more information on what to do about the law</a></h4>
 <h4 class="text-center">
   <span class="glyphicon glyphicon-lock"></span> <a href="/protect/">more information on legal ways to protect myself</a></h4>
