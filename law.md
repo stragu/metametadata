@@ -18,9 +18,8 @@ Doesn't that sound <span class="glyphicon glyphicon-heart"></span>lovely<span cl
 - [What is metadata?](#what)
 - [What are they collecting?](#collecting)
 - [What can they do with it?](#do)
-- [Know your rights, know your Ombudsman](#ombudsman)
-- [Why should you care?](#care)
-
+- [The Ombudsman.](#ombudsman)
+- [Does it work?](#work)
 
 ## <a name="what"></a>What is metadata?
 Metadata is data about data. Imagine we have the following data:
@@ -142,6 +141,8 @@ of other laws.
 
 __However, this method of oversight only works if the Ombudsman has independance and integrity.__ All we can do is cross
 our fingers and hope.
+
+## Does it work?<a name="work"></a>
 
 ### Notes
 [^nodef]: [http://www.abc.net.au/news/2015-03-17/metadata-data-retention-what-is-it/6324962](http://www.abc.net.au/news/2015-03-17/metadata-data-retention-what-is-it/6324962)
