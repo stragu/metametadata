@@ -10,7 +10,7 @@ ineffective, authoritarian laws.
 
 <a name="#who"></a>
 
-- [Lochlan Morrissey](http://loch.land)
+- [Lochlan Morrissey](http://loch.land) (PGP key: [A7CE6B72](http://loch.land/key.txt))
 
 #### Want to contribute?
 
