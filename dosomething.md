@@ -23,4 +23,19 @@ form to do so.
 
 ### Tell your friends
 Metadata isn't the sexiest of conversation topics, but the more people you tell, the more pressure will
-mount on parliamentarians 
+mount on parliamentarians.
+
+You might consider showing some friends the excellent documentary _Citizenfour_,
+which you can watch __legally__
+and for __free__ [here](http://thoughtmaybe.com/citizenfour/).
+
+### Donate
+There are a number of causes which are worthy of your monetary support.
+
+- [Electronic Frontiers Australia](https://www.efa.org.au/),
+an Australian nonprofit which promotes digital freedom, access, and privacy.
+- [Electronic Frontiers Foundation](https://www.eff.org/), an American nonprofit organization 
+defending civil liberties in the digital world. EFF champions user privacy,
+free expression, and innovation through impact litigation, policy analysis,
+grassroots activism, and technology development.
+- [Fight for the Future](https://www.fightforthefuture.org/), an organisation which aims to build a grassroots movement to ensure that everyone can access the Internet’s many resources affordably, free of interference or censorship and with full privacy.
