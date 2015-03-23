@@ -67,7 +67,7 @@ Image that, every time you sent a letter, the following was recorded:
 - the type of envelope.
 
 This captures some of what is covered by capture of communications metadata, except that
-some other things might be catured, like
+some other things might be captured, like
 
 - the physical location where the communication was sent from,
 - the location of where the recipient's mail is,
@@ -76,7 +76,7 @@ some other things might be catured, like
 
 <p class="lead" align="center">However, there is <strong>no definition of metadata in this law</strong>.</p>
 
-Metadata could, then, concievably mean __anything__:[^nodef]
+Metadata could, then, conceivably mean __anything__:[^nodef]
 
 >When you browse a webpage the distinction between content and metadata disappears because it's all
 machine-produced (and machine-understandable) information about web resources. It's all metadata. Alternatively,
@@ -123,7 +123,7 @@ organisations that are specified in the legislation are:[^agencies]
 
 If this list seems long, it is.
 
-__The metadata of every communication you transmit will be easily accessable by <strong>14</strong>
+__The metadata of every communication you transmit will be easily accessible by <strong>14</strong>
 different agencies.__
 
 ## The Ombudsman<a name="ombudsman"></a>
@@ -139,7 +139,7 @@ The Ombudsman has the power to:
 (i) that is in the member’s possession, or to which the member has access; and (ii) that is relevant to the inspection", regardless
 of other laws.
 
-__However, this method of oversight only works if the Ombudsman has independance and integrity.__ All we can do is cross
+__However, this method of oversight only works if the Ombudsman has independence and integrity.__ All we can do is cross
 our fingers and hope.
 
 ## Does it work?<a name="work"></a>
