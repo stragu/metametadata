@@ -27,7 +27,7 @@ need to get directions you can just switch it back on.
 
 - Use [TextSecure](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 to encrypt SMSes to your friends who also use it, and send regular SMSes to others.
-- Or, alternatively, use [Wickr](https://play.google.com/store/apps/details?id=com.mywickr.wickr2).[^wickr] 
+- Or, alternatively, use [Wickr](https://play.google.com/store/apps/details?id=com.mywickr.wickr2).[^wickr]
 
 #### Phone calls
 
