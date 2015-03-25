@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "metametadata: the law"
 permalink: /law/
 ---
 
