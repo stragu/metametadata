@@ -4,6 +4,8 @@ title: "metametadata: about"
 permalink: /about/
 ---
 
+A website about metadata.
+
 This website is made by regular people who are concerned about the introduction of these
 ineffective, authoritarian laws.
 
