@@ -15,7 +15,7 @@ __completely legal__ and __simple to use__.
 
 - One of the simplest things you can do is to disable the GPS on your phone, which is constantly
 leaking details about your location to applications which request that data.
-While it's slightly less convenient, remember that most of the communications
+While it's slightly less convinent, remember that most of the communications
 that are sent from your phone (Tweets, for example) can include information on your precise location. When you
 need to get directions you can just switch it back on.
 
@@ -47,8 +47,8 @@ to encrypt SMSes to your friends who also use it, and send regular SMSes to othe
 One of the simplest ways to get around your data being retained is to use email services hosted by
 overseas companies, such as the little-known [Gmail](https://www.gmail.com).
 
-__But__, nothing on the Internet is free. If you want really secure mail that doesn't rely on the
-revenue of its content being read for targeted advertisements, check out these paid services that are
+__But__, nothing on the internet is free. If you want really secure mail that doesn't rely on the
+revenue of your mail being read for targeted advertisements, check out these paid services that are
 big on privacy:
 
 - [KolabNow](https://kolabnow.com/) (hosted in Switzerland for extra security)
