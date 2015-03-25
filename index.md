@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-    <h3>The Australian Government is going to indescriminately
+    <h3>From 2017, The Australian Government is going to indescriminately
     capture and store all of your metadata.</h3>
     <h3>It's not <em>content</em>, they reckon, just data about data.</h3>
     <h3>Sounds innocent enough, right?</h3>
