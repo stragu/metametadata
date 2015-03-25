@@ -6,7 +6,7 @@ permalink: /law/
 The Australian government, with the help of the opposition,
 are pushing through a bill, blandly called
 the [_Telecommunications (Interception and Access) Amendment
-(Data Retention) Bill 2015_](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22legislation/bills/r5375_third-reps/0000%22). 
+(Data Retention) Bill 2015_](http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22legislation/bills/r5375_third-reps/0000%22).
 This is a direct attack on your right to
 privacy, and means that every communication you participate in is
 kept on record for two years. During that time, employees of
@@ -21,7 +21,7 @@ Doesn't that sound <span class="glyphicon glyphicon-heart"></span>lovely<span cl
 - [The Ombudsman.](#ombudsman)
 - [Does it work?](#work)
 
-## <a name="what"></a>What is metadata?
+### <a name="what"></a>What is metadata?
 Metadata is data about data. Imagine we have the following data:
 
 <div align="center">
@@ -82,7 +82,12 @@ Metadata could, then, conceivably mean __anything__:[^nodef]
 machine-produced (and machine-understandable) information about web resources. It's all metadata. Alternatively,
 it's all content!
 
-## <a name="collecting"></a>So... what exactly does the law say they are collecting?
+Or, put more forcefully by information security expert Bruce Schneier:[^schneier]
+
+>... Now imagine that you asked that same private detective to put a subject under constant surveillance.
+You would get a different report, one that included things like where he went, what he did, who he spoke to -- and for how long -- who he wrote to, what he read, and what he purchased. This is all metadata, data we know the NSA is collecting. So when the president says that it's only metadata, what you should really hear is that we're all under constant and ubiquitous surveillance.
+
+### <a name="collecting"></a>So... what exactly does the law say they are collecting?
 The following are specifically stated in the legislation as being required by law to
 be collected:[^collection]
 
@@ -94,7 +99,7 @@ other relevant services relating to, the relevant service.
 1. The type of a communication or of a relevant service used in connection with a communication.
 1. The location of equipment, or a line, used in connection with a communication.
 
-##What can they do with it? <a name="do"></a>
+### What can they do with it? <a name="do"></a>
 
 The bill
 
@@ -126,7 +131,7 @@ If this list seems long, it is.
 __The metadata of every communication you transmit will be easily accessible by <strong>14</strong>
 different agencies.__
 
-## The Ombudsman<a name="ombudsman"></a>
+### The Ombudsman<a name="ombudsman"></a>
 
 The bill also mandates that there __must__ be a Commonwealth Ombudsman[^ombudsman], who
 is the only real mechanism of oversight in the law.
@@ -142,10 +147,17 @@ of other laws.
 __However, this method of oversight only works if the Ombudsman has independence and integrity.__ All we can do is cross
 our fingers and hope.
 
-## Does it work?<a name="work"></a>
+### Does it work?<a name="work"></a>
+It is unclear clear how well metadata retention works in investigation of crime. Australian enforcement agencies
+are unable to give clear indications on how effective any such regime might be.[^effectiveness]
+The Government [has admitted](http://www.abc.net.au/pm/content/2015/s4172660.htm) that
+retention is easy, and legal, to sidestep.[^sidestep]
 
-### Notes
+#### Notes
 [^nodef]: [http://www.abc.net.au/news/2015-03-17/metadata-data-retention-what-is-it/6324962](http://www.abc.net.au/news/2015-03-17/metadata-data-retention-what-is-it/6324962)
 [^collection]: Pages 6--8, beginning line 203.
 [^agencies]: Pages 56--57, lines 1719--1732.
 [^ombudsman]: Chapter 4A, pages 77--83.
+[^sidestep]: Check out some legal, simple methods to protect yourself [here](/protect/).
+[^effectiveness]: [http://www.theguardian.com/world/2014/dec/29/metadata-most-australian-police-forces-cant-say-how-many-times-it-has-been-used-to-prevent](http://www.theguardian.com/world/2014/dec/29/metadata-most-australian-police-forces-cant-say-how-many-times-it-has-been-used-to-prevent)
+[^schneier]: [https://www.schneier.com/blog/archives/2014/03/metadata_survei.html](https://www.schneier.com/blog/archives/2014/03/metadata_survei.html)
