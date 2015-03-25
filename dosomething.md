@@ -19,7 +19,14 @@ The legislation has made it through the House of Representatives. Email your sta
 pressure them to defeat the bill.
 Use
 [GetUp!](https://www.getup.org.au/campaigns/privacy/email-your-mp/email-your-labor-representative?t=wqEexfOn3&utm_content=7535&utm_campaign=Labor%2c%20don%27t%20be%20so%20reckless&utm_source=blast&utm_medium=email)'s
-form to do so. 
+form to do so.
+
+### Learn more about digital rights
+The Internet offers a wealth of valuable and accessible information about your digital rights. Good ressources include but are not limited to:
+
+- [Access](https://www.accessnow.org/) are very good at actively reporting about current digital rights issues around the world.
+- [Electronic Frontier Foundation](https://www.eff.org/) have 25 years of experience "defending civil liberties in the digital world."
+- [La Quadrature du Net](http://www.laquadrature.net/en) is a French non-profit working on "freedom of expression, copyright, regulation of telecommunications and online privacy."
 
 ### Tell your friends
 Metadata isn't the sexiest of conversation topics, but the more people you tell, the more pressure will
