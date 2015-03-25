@@ -21,7 +21,7 @@ Doesn't that sound <span class="glyphicon glyphicon-heart"></span>lovely<span cl
 - [The Ombudsman.](#ombudsman)
 - [Does it work?](#work)
 
-### <a name="what"></a>What is metadata?
+### <span class="glyphicon glyphicon-barcode"></span> <a name="what"></a>What is metadata?
 Metadata is data about data. Imagine we have the following data:
 
 <div align="center">
@@ -87,7 +87,7 @@ Or, put more forcefully by information security expert Bruce Schneier:[^schneier
 >... Now imagine that you asked that same private detective to put a subject under constant surveillance.
 You would get a different report, one that included things like where he went, what he did, who he spoke to -- and for how long -- who he wrote to, what he read, and what he purchased. This is all metadata, data we know the NSA is collecting. So when the president says that it's only metadata, what you should really hear is that we're all under constant and ubiquitous surveillance.
 
-### <a name="collecting"></a>So... what exactly does the law say they are collecting?
+### <span class="glyphicon glyphicon-save"></span> <a name="collecting"></a>So... what exactly does the law say they are collecting?
 The following are specifically stated in the legislation as being required by law to
 be collected:[^collection]
 
@@ -99,7 +99,7 @@ other relevant services relating to, the relevant service.
 1. The type of a communication or of a relevant service used in connection with a communication.
 1. The location of equipment, or a line, used in connection with a communication.
 
-### What can they do with it? <a name="do"></a>
+### <span class="glyphicon glyphicon-list"></span> What can they do with it? <a name="do"></a>
 
 The bill
 
@@ -127,11 +127,10 @@ organisations that are specified in the legislation are:[^agencies]
     - (l) the Independent Commissioner Against Corruption.
 
 If this list seems long, it is.
-
-__The metadata of every communication you transmit will be easily accessible by <strong>14</strong>
+__The metadata of every communication you transmit will be easily accessible by 14
 different agencies.__
 
-### The Ombudsman<a name="ombudsman"></a>
+### <span class="glyphicon glyphicon-user"></span> The Ombudsman<a name="ombudsman"></a>
 
 The bill also mandates that there __must__ be a Commonwealth Ombudsman[^ombudsman], who
 is the only real mechanism of oversight in the law.
@@ -147,7 +146,7 @@ of other laws.
 __However, this method of oversight only works if the Ombudsman has independence and integrity.__ All we can do is cross
 our fingers and hope.
 
-### Does it work?<a name="work"></a>
+### <span class="glyphicon glyphicon-flash"></span> Does it work?<a name="work"></a>
 It is unclear clear how well metadata retention works in investigation of crime. Australian enforcement agencies
 are unable to give clear indications on how effective any such regime might be.[^effectiveness]
 The Government [has admitted](http://www.abc.net.au/pm/content/2015/s4172660.htm) that

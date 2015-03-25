@@ -5,10 +5,10 @@ permalink: /care/
 ---
 
 - [Everyone has something to hide.](#hide)
-- [What is legal today isn't tomorrow.](#legal)
+- [What is legal today might not be tomorrow.](#legal)
 - [We don't know how much it costs.](#cost)
 
-### Everyone has something to hide. <a name="hide"></a>
+### <span class="glyphicon glyphicon-sunglasses"></span> Everyone has something to hide. <a name="hide"></a>
 It's that old chestnut. _If you've got nothing to <strong>hide</strong>, you've got nothing to <strong>fear</strong>._
 
 If you believe you have nothing to hide, post the passwords to your social media accounts and email somewhere online, so that anyone,
@@ -32,7 +32,7 @@ Here are some things you might want to hide, and how metadata can reveal more th
 - They know you called the suicide prevention hotline from the Storey Bridge. But the topic of the call remains a secret.
 - They know you spoke with an HIV testing service, then your doctor, then your health insurance company in the same hour. But they don't know what was discussed.
 
-### What is legal today isn't tomorrow. <a name="legal"></a>
+### <span class="glyphicon glyphicon-erase"></span> What is legal today might not be tomorrow. <a name="legal"></a>
 Imagine that your car had a computer inside it that constantly recorded your speed, and your location, and it was
 stored for perpetuity. Police forces could look at the log and charge you for every time you exceeded the speed
 limit of your geographic location.
@@ -47,7 +47,7 @@ theft and bang so many Aussies caught up criminally. Who's to say access wouldn'
 __The policies of the Government of the day change rapidly. Politicians are fickle. But your metadata record remains consistent.
 All that stands between you and criminality are easily flipped policy switches.__
 
-### We don't know how much it costs. <a name="cost"></a>
+### <span class="glyphicon glyphicon-usd"></span> We don't know how much it costs. <a name="cost"></a>
 The Abbott Government was elected as a fiscally responsible consort of fiscal fixers. Yet, they haven't costed this legislation.
 The Prime Minister [has stated](http://www.abc.net.au/news/2015-02-18/data-retention-plan-could-cost-almost-400-million-a-year/6139078)
 that the cost is around $400m, and that the Government contribution to that will be "significant". But there _will_ be a shortfall,
