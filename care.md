@@ -26,7 +26,7 @@ you wish to keep to yourself?
 
 __One of the greatest victories of this campaign is to say that people only want to hide _illegal_ things. People want to hide
 all sorts of things for all sorts of reasons.__
-Here are some things you might want to hide, and how metadata can reveal more than you'd like to disclose[^eff]:
+Here are some things you might want to hide, and how metadata can reveal more than you'd like to disclose:[^eff]
 
 - They know you rang a phone sex service at 2:24 am and spoke for 18 minutes. But they don't know what you talked about.
 - They know you called the suicide prevention hotline from the Storey Bridge. But the topic of the call remains a secret.

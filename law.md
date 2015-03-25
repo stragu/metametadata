@@ -133,7 +133,7 @@ different agencies.__
 
 ### <span class="glyphicon glyphicon-user"></span> The Ombudsman<a name="ombudsman"></a>
 
-The bill also mandates that there __must__ be a Commonwealth Ombudsman[^ombudsman], who
+The bill also mandates that there __must__ be a Commonwealth Ombudsman,[^ombudsman] who
 is the only real mechanism of oversight in the law.
 
 The Ombudsman has the power to:
