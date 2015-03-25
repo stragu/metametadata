@@ -34,7 +34,7 @@ to encrypt SMSes to your friends who also use it, and send regular SMSes to othe
 - Encrypt important phone calls using
 [RedPhone](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone). Not suitable for everyday calls.
 
-### iPhone
+### iOS
 
 #### Messaging
 
@@ -58,7 +58,7 @@ big on privacy:
 It might seem imposingly difficult, but encrypting (or at least signing) your email is actually incredibly
 easy, thanks to tools that largely take care of the heavy lifting for you.
 
-## <a name="traffic"></a><span class="glyphicon glyphicon-random"></span> Protect your internet traffic
+## <a name="traffic"></a><span class="glyphicon glyphicon-random"></span> Protect your Internet traffic
 A [lot](http://wtfismyip.com/) of information about you is sent when you connect to a website.
 There are different ways to protect that information, or obscure it.
 
@@ -95,6 +95,12 @@ don't take our word for it: look around and see which services suit you.
 analysis. Tor is much more appropriate if anonymity is your goal.
 </div>
 
-### Notes
+## Resources
+- The Electronic Frontier Foundation offers a [Surveillance Self-Defense](https://ssd.eff.org/) website.
+- They also put together a frequently updated [Secure Messaging Scorecard](https://www.eff.org/secure-messaging-scorecard) so you can compare phone apps according to various criteria.
+- [Prism Break](https://prism-break.org/en/) lists secure(er) alternatives to many popular pieces of software.
+- Reset the Net's [Privacy Pack](https://pack.resetthenet.org/) similarly recommends apps to protect your privacy.
+
+## Notes
 [^wickr]: If it's good enough for [Government Frontbenchers](http://www.theguardian.com/australia-news/australia-news-blog/2015/mar/02/wickr-the-secret-messaging-app-of-the-party-unfaithful), it's good enough for you!
 [^vpn]: By the way, this stuff is especially useful on public, open networks, such as those at cafes or libraries. With easy-to-use tools (like [Firesheep](https://codebutler.github.io/firesheep/)), your social media accounts can be hijacked.
