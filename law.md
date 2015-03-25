@@ -133,7 +133,7 @@ different agencies.__
 
 ### <span class="glyphicon glyphicon-user"></span> The Ombudsman<a name="ombudsman"></a>
 
-The bill also mandates that there __must__ be a Commonwealth Ombudsman[^ombudsman], who
+The bill also mandates that there __must__ be a Commonwealth Ombudsman,[^ombudsman] who
 is the only real mechanism of oversight in the law.
 
 The Ombudsman has the power to:
@@ -150,7 +150,9 @@ our fingers and hope.
 ### <span class="glyphicon glyphicon-flash"></span> Does it work?<a name="work"></a>
 It is unclear how well metadata retention works in investigation of crime. Australian enforcement agencies
 are unable to give clear indications on how effective any such regime might be.[^effectiveness]
-The Government [has admitted](http://www.abc.net.au/pm/content/2015/s4172660.htm) that
+Telcos have also questioned[^telcos] how effective the measures are, given that "popular overseas-based services such as Gmail, Hotmail, Facebook and Skype would not be captured," and
+"other “substantial” exemptions from the proposed scheme include services provided within corporate and university networks and free Wi-Fi in public places."
+The Government has admitted[^admission] that
 retention is easy, and legal, to sidestep.[^sidestep]
 
 #### Notes
@@ -161,3 +163,5 @@ retention is easy, and legal, to sidestep.[^sidestep]
 [^sidestep]: Check out some legal, simple methods to protect yourself [here](/protect/).
 [^effectiveness]: [http://www.theguardian.com/world/2014/dec/29/metadata-most-australian-police-forces-cant-say-how-many-times-it-has-been-used-to-prevent](http://www.theguardian.com/world/2014/dec/29/metadata-most-australian-police-forces-cant-say-how-many-times-it-has-been-used-to-prevent)
 [^schneier]: [https://www.schneier.com/blog/archives/2014/03/metadata_survei.html](https://www.schneier.com/blog/archives/2014/03/metadata_survei.html)
+[^telcos]: [http://www.theguardian.com/australia-news/2015/feb/19/telcos-question-data-retention-plans-that-exempt-facebook-gmail-and-skype](http://www.theguardian.com/australia-news/2015/feb/19/telcos-question-data-retention-plans-that-exempt-facebook-gmail-and-skype)
+[^admission]: [http://www.abc.net.au/pm/content/2015/s4172660.htm](http://www.abc.net.au/pm/content/2015/s4172660.htm)
